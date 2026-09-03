@@ -1,6 +1,6 @@
 ---
 name: thinking-skill
-description: For nearly any coding task in this editor — writing, editing, debugging, refactoring, reviewing, exploring code, or answering a question — first follow this deliberate workflow: gather context, plan, execute reversibly, test, and report concisely.
+description: For nearly any coding task in this editor — writing, editing, debugging, refactoring, reviewing, exploring code, or answering a question.
 ---
 
 # Thinking Skill
