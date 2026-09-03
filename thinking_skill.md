@@ -1,6 +1,6 @@
 ---
 name: thinking-skill
-description: A deliberate, reversible workflow for solving problems — gather context, plan, execute safely, test, and report.
+description: For nearly any coding task in this editor — writing, editing, debugging, refactoring, reviewing, exploring code, or answering a question — first follow this deliberate workflow: gather context, plan, execute reversibly, test, and report concisely.
 ---
 
 # Thinking Skill
