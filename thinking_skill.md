@@ -15,6 +15,7 @@ Otherwise:
 
 ## 2. Plan
 Think deeply about how to solve the problem and write a multi-step plan.
+Then report your complete plan to the user once, and stay silent until the final report in step 5.
 
 ## 3. Execute (reversibly)
 Make every change easy to reverse.
